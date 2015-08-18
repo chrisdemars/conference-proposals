@@ -1,2 +1,2 @@
 # The Subway Sandwich Artist
-If there is one thing that can be taken away from the world of software development is that giving a shit is a big deal. Too many
+If there is one thing that can be taken away from the world of software development it is that giving a shit is a big deal. Caring about the code you write, the solutions you come up with, or the apps you design is so huge in this industry. It all boils down to passion and what kind of mark you want to leave behind. When you leave your company or team, what do you want them to say about you? That you slopped together ideas and code, or actually cared enough to make on impact on the team, the user,  and product or service that was delivered?
