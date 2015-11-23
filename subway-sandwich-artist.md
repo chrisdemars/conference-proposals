@@ -6,5 +6,4 @@ Have you ever walked in to Subway and watched the person behind the counter make
 ### Description
 The biggest takeaway you can grasp while being immersed in the world of software development would be the importance of caring about the work you do. Passion and knowledge converge to produce carefully written code, innovative solutions, and amazing applications. What kind of mark do you want to leave behind? What is your legacy within your company?
 
-It isn't hard to care about what you do for work. When you begin to not care,  gets thrown out the window. 
-This talk focuses on goals a developer should aim for in order to make a positive impact on their team and maintaing software craftsmanship that we all strive for.
+It isn't hard to care about what you do for work. When you begin to not care,  is when best practices and principles get thrown out the window. This talk focuses on what it means to be a great software craftsman from a junior developers point of view, the struggles of getting there, and what craftsmanship means to me.
