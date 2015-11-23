@@ -1,4 +1,4 @@
-## It's Just A Sandwich.
+## It's Just A Sandwich: A junior developer's guide to the craft of software.
 
 ### Abstract
 Have you ever walked in to Subway and watched the person behind the counter make your sandwich? Did they take caution in slicing the bread evenly? Did they line the bread proportionally with all the toppings to make it the best sandwich ever? Watch next time someone makes your sandwich and you will be surprised. Subway sandwich artists and software craftsman have one thing in common, they care.
