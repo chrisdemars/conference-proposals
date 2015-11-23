@@ -3,7 +3,7 @@ Have you ever faced a code base worked on by more than a dozen developers, blank
 
 CSS is hard, we all know that. There has to be a more effective way to facilitate the modularity and flexibility of our code. When tasked with creating new components for a Web project and inheriting over 8,000 lines of code, where do you start? When you are told to keep it modular as possible, what solutions do you have at your disposal? During this time is when you break in to your bag-of-tricks with one of the many modular CSS architectures out there.
 
-B.E.M. is a great method to use to keep code very flexible and modular from component to component, and page to page. The greatest thing about utilizing B.E.M. is the reusability of the code and being able to maintain the code in small pieces opposed to a large blocks with excessive declarations and generic naming.
+B.E.M. is a great method to use to keep code very flexible and modular from component to component, and page to page. The greatest thing about using B.E.M. is the reusability of the code and being able to maintain the code in small pieces opposed to a large blocks with excessive declarations and generic naming.
 
 One of the greatest takeaways from using B.E.M. is the naming of styles. With B.E.M., you can be as specific as you want to describe exactly what that style is being applied too. Naming the style according to where it is being applied and what it is being used for helps other developers who inherit your code as well as your future self.
 
