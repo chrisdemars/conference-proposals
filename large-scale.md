@@ -6,7 +6,7 @@ As a developer working in an enterprise environment, maintaining a solid code ba
 ### Description
 Working as a front-end developer for a large organization is not a walk in the park by any means. There are enhancements to be made, bugs to fix, and knowledge to be shared. Being a developer, writing all the code per the spec, or at least what the mockup looks like comes natural. We as developers want to see the design come to life and we do all we can to make that happen.
 
-But, what do you do when a week later, the design changes? If not a big change, a small change. The color of the heading changes here, or the padding is 10 more pixels to the left? Frustration sets in and you wish there was a more efficient system in place to write code and ship it and be done with it. Taking annoated mockups and building the code to make them work, only to have it completely change the next week is tiresome.
+But, what do you do when a week later, the design changes? If not a big change, a small change. The color of the heading changes here, or the padding is 10 more pixels to the left? Frustration sets in and you wish there was a more efficient system in place to write code and ship it and be done with it. Taking annotated mockups and building the code to make them work, only to have it completely change the next week is tiresome.
 
 Iterative driven development is not a new thing, but something we as developers should embrace in a large scale corporation that still has yet to adopt an agile methodology of delivering timely, small solutions. By providing code and examples I will show how writing code iterativley will save time and money in the long run.
 
