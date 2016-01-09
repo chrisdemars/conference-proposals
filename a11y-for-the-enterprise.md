@@ -2,4 +2,4 @@
 Proposal limited to 140 characters.
 ### A11Y for the Enterprise
 
-Designing a UI or writing a chunk of code? Have you ever heard, "Let me get my glasses"? Keep everyone in mind when developing for the Web.
+Designing a UI? Writing a chunk of code? Have you ever heard, "Let me get my glasses"? Keep all in mind when developing a11y for the Web.
