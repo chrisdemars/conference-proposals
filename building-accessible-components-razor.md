@@ -1,3 +1,3 @@
-## Building Accessible Forms with Razor. 
+## Building Accessible Components with Razor. 
 
 ### Abstract
