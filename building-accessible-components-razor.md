@@ -1,3 +1,3 @@
 ## Building Accessible Components with Razor. 
 
-### Abstract
+Creating robust experiences using C# and .NET 
