@@ -1,1 +1,3 @@
 # Reactifying your Jekyll
+
+The days of building a blog with popular content management systems like Wordpress seem to have fallen to the wayside, in the developer community it seems that way. Platforms like Ghost and Jekyll have paved the way for creating blogs with static site generators and by doing this has removed the abstraction of server side languages like PHP, and MySQL databases used in a traditional style blog platforms. Gatsby, the new kid on the block, is a static site generator that uses the power of React and Webpack to create blazing fast static sites. In this talk I will be discussing what Gatsby is, the differences between other static site generators, and creating a basic page using Gatsby.
