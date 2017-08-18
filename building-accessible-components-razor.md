@@ -1,3 +1,3 @@
-## Building Accessible Components with Razor. 
+# Building Accessible Components with Razor. 
 
-Creating robust experiences using C# and .NET 
+Creating robust experiences using C# and .NET is pretty great if you are a back end developer, but what if your power lies in the front end? Were you ever tasked to build in accessibility, but the only catch was it had to be supported by C# developers? The power of .NET Core and C# 7 far exceeds the Microsoft technologies of the past, but it is still lacking in terms of building in solutions for accessibility. Razor syntax is the bridge between the back end C# code and front end HTML for creating beautiful user interfaces, that can also be accessibility compliant. In this talk I will briefly go through an intro to accessibility, Razor syntax, and build a standard form out of Razor syntax that is functional as well as accessible for users with disabilities.
