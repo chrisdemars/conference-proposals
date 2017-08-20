@@ -1,0 +1,1 @@
+Chris DeMars is a ui developer for United Shore located in Troy, Michigan. He is an instructor and teacher assistant for the Ann Arbor and Detroit chapters of Girl Develop It. Chris loves coming up with solutions for enterprise applications, which include modular CSS architectures, performance, and promoting Web accessibility.
