@@ -1,4 +1,4 @@
-# Believe in the Power of CSS
+## Believe in the Power of CSS
 
-## Abstract
-
+### Abstract
+"First time you feel it, it might make you sad." You know that song by Huey Lewis that we all know, The Power of Love? Might be how you feel about CSS right? What about the power of CSS? Presentational front-end languages, like CSS, have received a bad name as of late. The truth of the matter is that CSS is such a powerful piece of the front-end puzzle and you should really be excited for what is already here, and what is to come! Who thought we would be here? Magazine style layouts with CSS grid, ruleset variable scoping with custom properties(CSS variables), and last but not least, the dreaded pain of centering content horizontally and vertically which is now possible in three lines with flexbox! Let's talk about how great CSS is, and how we can restore your faith in one of the best technologies that makes the web great!
