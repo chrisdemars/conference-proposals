@@ -1,3 +1,2 @@
 # Ideas
-* Accessible UI components
 * ...
