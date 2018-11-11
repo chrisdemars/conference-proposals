@@ -1,1 +1,0 @@
-# Electron and React Talk
