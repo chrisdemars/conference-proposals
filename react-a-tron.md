@@ -1,3 +1,3 @@
-# React-a-tron: React on the Desktop
+# React-A-Tron: React on the Desktop
 
 Wouldn't you love to build fast applications for the desktop? If the answer is yes, than look no further than building React apps with Electron. Electron is a framework to build cross-platformm applications using tools you already know and love, HTML, CSS, and JavaScript. Chances are you use an Electron app in your daily workflow. Still skeptical? If you use Slack, Atom, or VS Code, you are using Electron. When you pair Electron with React, you can build amazingly fast and robust applications for Windows, Mac, and Linux. In this session, we will walk through how to set up an application using Electron, than we will introduce React and build a small desktop app that looks and feels like a native desktop application.
