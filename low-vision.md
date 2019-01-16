@@ -1,4 +1,4 @@
-## I Can't See: Low Vision A11y & Users. 
+## I Can't See: Low Vision A11y & Users
 
 ### Abstract
 
