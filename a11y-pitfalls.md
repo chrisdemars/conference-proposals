@@ -1,0 +1,5 @@
+# Common Accessibility Pitfalls: Climbing out, when you fall in.
+
+You, your users, and Alice from the Wonderland Adventures have something in common. At one point, everyone has fallen into a hole of perplexity, confusion, and sometimes hysterical madness. Unlike Alice, we can navigate ourselves and our users around that abyss of chaos that we call the web. Shipping inaccessible experiences to our users can have unpleasant effects. Being cognizant of all the things that can go wrong and who are potential users are, can get us very far in our journey.
+
+In this session we are going to learn about common accessibility violations that surface when we are lackadaisical about the experiences we are shipping. Topics we will cover are semantic markup, alt attributes and images, color contrast, and more. Attendees will walk away being able to identify these problem areas in their codebase as well as learning techniques, tools, and best practices to keep our users happy and not drive them mad in the process.
