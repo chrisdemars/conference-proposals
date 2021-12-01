@@ -1,5 +1,3 @@
-## Ignite UX Michigan 2016
-Proposal limited to 140 characters.
-### A11Y for the Enterprise
+## Accessibility in the Enterprise: The Relationship of A11y and ROI
 
-Designing a UI? Writing a chunk of code? Have you ever heard, "Let me get my glasses"? Keep all in mind when developing a11y for the Web.
+As we build more and more things on the web, accessibility is gaining much more visibility. But what does it actually mean to you and your company? It means we HAVE to be cognizant of everyone, all the time, with no exceptions as we do our part in building awesome, accessible user experiences to people of all levels of ability while being mindful of our users' diversity of disability. Accessibility on the web is not a nice-to-have, but a requirement: leaving out at least 20% of your audience can be detrimental to your organization's return on investment and bottom line. Not sure what to do? Let's fix that! Let's talk about all of the reasons that accessibility is essential to your organization and your users. You'll learn ways to ensure you're providing the best possible experience for all your users by sharing real examples from my time building and testing accessible applications to ensure you're truly delivering inclusive experiences.
