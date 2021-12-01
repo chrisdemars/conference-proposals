@@ -3,3 +3,20 @@ Chris DeMars is a Developer Advocate at Rocket Mortgage, the nation’s largest 
 
 # Short Bio
 Chris DeMars is a Developer Advocate at Rocket Mortgage, the nation’s largest lender, based in Detroit, Michigan. Chris focuses on advocating for web accessibility, CSS, ux, and design systems.
+
+# Notes
+Since 2017 I have spoken at numerous events spanning the U.S., Canada, England, Romania, and Bulgaria.
+
+Past Speaking Engagements
+
+https://youtu.be/OxFkS7oOeWc (Rocky Mountain Angular, 1:00 mark)
+
+https://www.recallact.com/presentation/believe-power-css (Connect.Tech 2018)
+
+https://youtu.be/UG67_ub8Mag (Cerner Engineering)
+
+https://youtu.be/QvJAAoLdrE0 (StirTrek 2018)
+
+https://youtu.be/g4NY-AUazEI (Swift Kick Show 2018)
+
+https://youtu.be/YefvZJsenFM (IgniteUX MI 2017)
