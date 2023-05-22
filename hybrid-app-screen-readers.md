@@ -1,1 +1,1 @@
-Unlocking Inclusive Potential: Exploring Screen Reader Integration Techniques for Hybrid Mobile Applications
+# Unlocking Inclusive Potential: Screen Reader Integration for Hybrid Mobile Apps
