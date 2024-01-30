@@ -1,1 +1,3 @@
-# Feature flag accessibility something something
+# Enhancing Web Accessibility: A Feature Flags Approach
+
+Learn how to use feature flags for creating more accessible websites. Discover an efficient way to integrate accessibility features into web development practices, ensuring a smooth user experience for everyone. Explore real-world examples of how feature flags can be applied to improve accessibility without causing disruptions. From making navigation easier for screen reader users to improving content readability, this session is designed to equip developers and teams with practical knowledge and tools for effective implementation of accessibility features. Join us to harness the power of feature flags in making the digital landscape more inclusive.
