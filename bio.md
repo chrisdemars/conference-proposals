@@ -1,8 +1,8 @@
 # Long Bio
-Chris DeMars is a Senior Developer Advocate at. He has over 20 years of technical experience and speaks all over the world on web accessibility, feature flags, and CSS. For his community contributions, he holds awards as a Microsoft MVP and Progress Champion. Chris advocates, teaches, and speaks on web accessibility as well as modern CSS; building applications with both at the forefront. When he is not working on making the web great and accessible you can find him writing blog posts, rating Detroit Style pizza, and watching Horror movies.
+Chris DeMars is a Senior Developer Advocate at DigitalOcean. He has over 20 years of technical experience and speaks globally on various frontend topics and has received accolades for his community contributions, including the prestigious Microsoft MVP and Progress Champion awards. Chris is passionate about enhancing web development and helping developers achieve their goals. In his free time, he enjoys writing blog posts, rating Detroit-style pizza, and investigating UFO's.
 
 # Short Bio
-Chris DeMars is a Senior Developer Advocate. Chris focuses on advocating for web accessibility, feature flags, CSS, ux, and design systems.
+Chris DeMars is a Senior Developer Advocate at DigitalOcean. He loves speaking on frontend topics and searching for Bigfoot.
 
 # Notes
 Since 2017 I have spoken at numerous events spanning the U.S., Canada, England, Romania, and Bulgaria.
