@@ -1,0 +1,3 @@
+# Sasquatch-as-a-Service: Building a Bigfoot Chatbot on the Cloud
+
+Have you ever wondered what Bigfoot might say if you could chat with them? In this session, we’ll explore the wild world of conversational AI by creating "Sasquatch-as-a-Service," a chatbot designed to talk to the legendary Bigfoot. From training natural language processing models with cryptozoological flair to deploying your app on modern cloud platforms like DigitalOcean, this talk combines cutting-edge tech with a touch of myth. You’ll learn how chatbots can transform the way we interact with data, provide unexpected insights, and even bridge the gap between folklore and functionality. Come for the Bigfoot, stay for the AI magic!
