@@ -1,5 +1,5 @@
 # Long Bio
-Chris DeMars is a Senior Developer Advocate at DigitalOcean. He has over 20 years of technical experience and speaks globally on various frontend topics and has received accolades for his community contributions, including the prestigious Microsoft MVP and Progress Champion awards. Chris is passionate about enhancing web development and helping developers achieve their goals. In his free time, he enjoys writing blog posts, rating Detroit-style pizza, and investigating UFO's.
+Chris DeMars is a Senior Developer Advocate at DigitalOcean. He has over 20 years of technical experience and speaks globally on various frontend topics and has received accolades for his community contributions, including the prestigious Microsoft MVP and Progress Champion awards to name a few. Chris is passionate about enhancing web development and helping developers achieve their goals. In his free time, he enjoys rating Detroit-style pizza, searching for Bigfoot, and investigating UFO's.
 
 # Short Bio
 Chris DeMars is a Senior Developer Advocate at DigitalOcean. He loves speaking on frontend topics and searching for Bigfoot.
