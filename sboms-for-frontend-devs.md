@@ -1,0 +1,3 @@
+# Know Your JS: SBOMs for Frontend Devs
+
+Ever wonder what’s lurking in the dark corners of your `node_modules`, like unidentified flying dependencies sneaking aboard your project? In an age of escalating software supply chain attacks, knowing exactly what you're shipping is as vital as tracking strange lights in the sky. This talk will shine a beam on SBOMs (Software Bills of Materials), explaining why frontend developers should care and how to generate one using tools like CycloneDX and Syft. You’ll leave with the skills to map your entire dependency galaxy, integrate SBOM creation into your build process, and spot known vulnerabilities before they abduct your users. No security clearance required, just your JavaScript and an explorer’s mindset.
