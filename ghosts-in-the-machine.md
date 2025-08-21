@@ -1,0 +1,3 @@
+# Ghosts in the Machine: Tampering with the JavaScript Supply Chain
+
+What if the code you’re shipping isn’t yours anymore? The scariest JavaScript bugs don’t always come from your team, they come from open-source packages that have been possessed. This talk digs deep into the dark world of supply chain tampering: what it looks like, how it happens, and what modern devs can do to protect themselves. We’ll talk tamper detection, package provenance, lockfile integrity, and even how to set up GitHub Actions to ward off malevolent merges. Come for the security, stay for the stories of cursed commits.
