@@ -1,0 +1,3 @@
+# Possessed by Packages: Is Your JavaScript Haunted?
+
+Is your app behaving strangely? Random network calls? Unexpected behavior? It might not be a bug, it might be possessed. In this spooky session, we’ll explore how malicious packages sneak into your codebase like ghosts through an open portal. You’ll learn how typo-squatting, dependency confusion, and supply chain attacks haunt the JavaScript ecosystem, and how to perform a proper exorcism. We’ll go beyond npm audit and explore tools and habits to stop the haunt before it begins. Leave this talk with a toolkit that wards off evil; digital and otherwise.
