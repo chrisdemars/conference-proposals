@@ -1,0 +1,3 @@
+# The node_modules Iceberg: Mysteries Below the Waterline
+
+What lurks below the tip of the iceberg? Well, if you look at it from the aspect of web and software it is our best friend, the node_modules. Have you ever jumped into your node_modules and looked around to see what the various packages of your packages are? Chances are, no. We don't have time for that...but we should! Let's dive in to the world of transitive dependencies and break down what they are. In this session you will learn what transitive dependencies are, how to list them, the risks they bring, and how to integrate TuxCare's ELS solution to fix them.
