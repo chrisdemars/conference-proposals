@@ -1,0 +1,3 @@
+# Silent Execution: Defending Against Install-Time Supply Chain Attacks
+
+While we often focus on securing the React Native bridge or runtime data, the most immediate threat to your project might execute before you even hit "build." In early 2026, the "Glassworm" attacks proved that a developer’s environment can be compromised in seconds through malicious npm lifecycle scripts that exfiltrate credentials during a standard installation. This 15-minute technical deep dive breaks down the mechanics of install-time malware, analyzes why standard audit tools often miss these exploits, and provides a concrete roadmap for hardening your local environment and CI/CD pipelines using script-blocking strategies and behavioral monitoring.
