@@ -1,0 +1,3 @@
+# Trust Issues: What Your Dependencies Aren’t Telling You
+
+When developers run install commands, they inherently trust code they haven't vetted, written by strangers. This talk examines how this trust is exploited through supply chain attacks, explaining why current open-source tooling and culture often leave developers vulnerable. By analyzing real-world incidents and common attack vectors, we will outline practical habits like provenance checks and dependency reviews that integrate seamlessly into any workflow. Attendees will gain a clearer understanding of where trust resides in their software supply chain and how to manage it more effectively by securing the whole ecosystem.
