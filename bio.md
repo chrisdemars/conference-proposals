@@ -5,18 +5,11 @@ Chris DeMars is a Senior Developer Advocate with 20+ years of technical experien
 Chris DeMars is a Senior Developer Advocate. He loves speaking on frontend topics and searching for Bigfoot.
 
 # Notes
-Since 2017 I have spoken at numerous events spanning the U.S., Canada, England, Romania, and Bulgaria.
+Since 2017 I have spoken at numerous events spanning the globe.
 
 Past Speaking Engagements
 
-https://youtu.be/OxFkS7oOeWc (Rocky Mountain Angular, 1:00 mark)
-
-https://www.recallact.com/presentation/believe-power-css (Connect.Tech 2018)
-
-https://youtu.be/UG67_ub8Mag (Cerner Engineering)
-
-https://youtu.be/QvJAAoLdrE0 (StirTrek 2018)
-
-https://youtu.be/g4NY-AUazEI (Swift Kick Show 2018)
-
-https://youtu.be/YefvZJsenFM (IgniteUX MI 2017)
+- [Voxxed Days Amsterdam 2026 - Amsterdam, NL | Keynote](https://youtu.be/aKXVmHT51Gw)
+- [Voxxed Days Amsterdam 2026 - Amsterdam, NL](https://youtu.be/zTXZzoBJkHk)
+- [Black Hat EU 2025 - London, England](https://youtu.be/xKM73Yf81QY)
+- [Midwest Tech Conference 2025 - St. Louis, MO](https://youtu.be/6GcQGO6Idg4)
